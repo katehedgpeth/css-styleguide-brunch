@@ -1,0 +1,16 @@
+{
+  "name": "css-styleguide-brunch",
+  "version": "1.0.0",
+  "description": "A Brunch plugin for writing SCSS variables from yaml files",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^3.10.1",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kate Hedgpeth",
+  "license": "ISC"
+}
